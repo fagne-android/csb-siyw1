@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fagne-android.github.io/csb-siyw1/static/css/main.383fdbca.chunk.css",
+    "main.js": "https://fagne-android.github.io/csb-siyw1/static/js/main.3e8ec641.chunk.js",
+    "main.js.map": "https://fagne-android.github.io/csb-siyw1/static/js/main.3e8ec641.chunk.js.map",
+    "runtime-main.js": "https://fagne-android.github.io/csb-siyw1/static/js/runtime-main.8ce8b78b.js",
+    "runtime-main.js.map": "https://fagne-android.github.io/csb-siyw1/static/js/runtime-main.8ce8b78b.js.map",
+    "static/js/2.0bbcb695.chunk.js": "https://fagne-android.github.io/csb-siyw1/static/js/2.0bbcb695.chunk.js",
+    "static/js/2.0bbcb695.chunk.js.map": "https://fagne-android.github.io/csb-siyw1/static/js/2.0bbcb695.chunk.js.map",
+    "index.html": "https://fagne-android.github.io/csb-siyw1/index.html",
+    "static/css/main.383fdbca.chunk.css.map": "https://fagne-android.github.io/csb-siyw1/static/css/main.383fdbca.chunk.css.map",
+    "static/js/2.0bbcb695.chunk.js.LICENSE.txt": "https://fagne-android.github.io/csb-siyw1/static/js/2.0bbcb695.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce8b78b.js",
+    "static/js/2.0bbcb695.chunk.js",
+    "static/css/main.383fdbca.chunk.css",
+    "static/js/main.3e8ec641.chunk.js"
+  ]
+}
